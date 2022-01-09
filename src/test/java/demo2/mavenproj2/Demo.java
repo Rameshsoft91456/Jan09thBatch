@@ -7,6 +7,10 @@ public class Demo {
 	@Test
 	public void demo() {
 		System.out.println("JAVA MAVEN PROGRAM");
+		System.out.println("JAVA MAVEN PROGRAM");
+		System.out.println("JAVA MAVEN PROGRAM");
+		System.out.println("JAVA MAVEN PROGRAM");
+		System.out.println("JAVA MAVEN PROGRAM");
 	}
 	
 }
