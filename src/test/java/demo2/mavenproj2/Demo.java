@@ -10,8 +10,12 @@ public class Demo {
 		System.out.println("JAVA MAVEN PROGRAM");
 		System.out.println("JAVA MAVEN PROGRAM");
 		System.out.println("JAVA MAVEN PROGRAM");
+
 		System.out.println("JAVA MAVEN PROGRAM");
 		System.out.println("Person1 modifications................");
+
+		System.out.println("Person2 modification...............");
+
 	}
 	
 }
